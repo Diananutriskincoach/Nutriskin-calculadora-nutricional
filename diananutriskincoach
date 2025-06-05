@@ -1,0 +1,26 @@
+# Nutriskin - Calculadora Nutricional
+
+## Descripción
+
+**Calculadora Nutricional** es una herramienta diseñada para ayudarte a calcular tus necesidades calóricas diarias, así como los macronutrientes (proteínas, carbohidratos, grasas) que debes consumir, en función de tu actividad física y objetivos de bienestar (mantenimiento, pérdida o aumento de peso).
+
+La calculadora es totalmente **personalizada**, basada en datos como tu edad, peso, altura, género y nivel de actividad física. Así, puedes obtener recomendaciones sobre lo que tu cuerpo necesita para alcanzar tus metas de salud.
+
+### **¿Cómo funciona?**
+1. Ingresa tus datos (edad, género, peso, altura, nivel de actividad física).
+2. Haz clic en "Calcular" y recibirás un desglose de tus necesidades calóricas diarias y los macronutrientes recomendados.
+3. Usa esta información para optimizar tu nutrición y alcanzar tus objetivos de bienestar.
+
+## Requisitos
+
+Para usar esta calculadora no necesitas nada más que un navegador web y conexión a Internet.
+
+## Licencia
+
+Este proyecto está bajo la **MIT License**. Puedes usar, modificar y distribuir este código libremente, pero sin ninguna garantía de que funcione según lo esperado. Asegúrate de dar crédito a los creadores originales.
+
+**Licencia MIT**: [Ver detalles aquí](LICENSE).
+
+## Atribución
+
+La **Calculadora Nutricional** fue desarrollada por **Diana** de **diananutriskincoach**. Todo el código y diseño son propiedad de **diananutriskincoach**.
